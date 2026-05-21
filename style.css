@@ -1,0 +1,43 @@
+body {
+    font-family: Arial;
+    margin: 0.5;
+    background: #000000;
+    color: rgba(255, 255, 255, 0.955);
+}
+
+header {
+    background: linear-gradient(to right, #5e5d5d, #b5b6b6);
+    padding: 10px;
+    text-align: center;
+}
+
+nav {
+    background: #000000;
+    padding: 10px;
+    text-align: center;
+}
+
+nav a {
+    color: rgb(255, 255, 255);
+    margin: 15px;
+    text-decoration: none;
+}
+
+nav a:hover {
+    color: #000000;
+}
+
+section {
+    background: #454544;
+    margin: 20px;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+button {
+    background: #565756;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+}
